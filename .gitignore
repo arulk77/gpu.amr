@@ -1,4 +1,6 @@
 reference/*bch*
+c_source_code/
+.DS_*
 .*~
 *.o
 *.exe
